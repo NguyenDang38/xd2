@@ -1,3 +1,3 @@
 # hi
 something something
-![alt text](1.png)
+![alt text](GUI/1.png)
