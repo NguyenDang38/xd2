@@ -1,3 +1,3 @@
 # hi
 something something
-![alt text](01.png)
+![alt text](1.png)
