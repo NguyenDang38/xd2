@@ -1,3 +1,3 @@
 # hi
 something something
-<img src=".GUI/1.PNG">
+<img src="GUI/1.PNG">
